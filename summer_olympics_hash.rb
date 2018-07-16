@@ -1,8 +1,7 @@
-place = ["Atlanta","Sydney","Athens","Beijing","London"]
-year = ["1996","2000","2004","2008","2012"]
+#place = ["Atlanta","Sydney","Athens","Beijing","London"]
+#year = ["1996","2000","2004","2008","2012"]
 
-def create_olympics_hash 
-  summer_olympics = {
+# summer_olympics = {
   :Sydney => 2000,
   :Athens => 2004,
   :Beijing => 2008,
