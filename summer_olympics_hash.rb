@@ -24,7 +24,7 @@
   
 # end
 
-def iterate_through_hash
+def iterate_through_hash(place,year)
   place = ["Atlanta","Sydney","Athens","Beijing","London"]
   year = ["1996","2000","2004","2008","2012"]
   
